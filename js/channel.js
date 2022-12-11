@@ -46,7 +46,7 @@ var channelJson = [
         "id": "6",
         "RadioName": "\u0627\u0630\u0627\u0639\u0629 \u0642\u0631\u0621\u0627\u0646 \u0643\u0631\u064a\u0645 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
         "RadioType": "\u0627\u0630\u0627\u0639\u0629 \u0627\u0644\u0642\u0631\u0621\u0627\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 \u0627\u0644\u0631\u0633\u0645\u064a\u0629 \u0645\u0646 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
-        "RadioUrl": "https:\/\/coran.ice.infomaniak.ch\/coran.aac"
+        "RadioUrl": "https://webradio.tda.dz/Coran_64K.mp3"
     },
     {
         "id": "7",
