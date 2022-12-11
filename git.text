@@ -1,0 +1,22 @@
+git branch -M main
+git push -u origin main
+git branch -M master
+git push -u origin master
+git add .
+git commit -m "finish lesson1"
+
+https://github.com/samaladdin70/Aladdin-Sami-Radio.git
+
+git status
+git init
+
+git remote add origin https://github.com/samaladdin70/Aladdin-Sami-Radio.git
+
+git status
+
+git config user.name "Aladdin Sami"
+git config user.email "samaladdin70@gmail.com"
+
+git add .
+
+git commit -m "init-project"
