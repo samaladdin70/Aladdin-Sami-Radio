@@ -20,9 +20,9 @@ var channelJson = [
     },
     {
         "id": "2",
-        "RadioName": "\u0645\u064a\u062c\u0627 \u0627\u0641 \u0627\u0645",
+        "RadioName": "راديو نغم اف إم",
         "RadioType": " \u0645\u0646\u0648\u0639\u0627\u062a \u0648\u0628\u0631\u0627\u0645\u062c \u0645\u0635\u0631\u064a\u0629",
-        "RadioUrl": "http:\/\/nebula.shoutca.st:8211\/;stream.mp3"
+        "RadioUrl": "https://ahmsamir.radioca.st/stream"
     },
     {
         "id": "3",
