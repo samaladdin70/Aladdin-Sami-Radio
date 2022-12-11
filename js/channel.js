@@ -116,21 +116,21 @@ var channelJson = [
     },
     {
         "id": "18",
-        "RadioName": "\u0635\u0627\u0644\u0635\u0627",
+        "RadioName": "راديو ماجيستيك القديم",
         "RadioType": "\u0645\u0648\u0633\u064a\u0642\u0649 \u0648\u0623\u063a\u0627\u0646\u064a \u0645\u0646 \u0643\u0648\u0628\u0627 -- \u0623\u0645\u0631\u064a\u0643\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629 -- \u0635\u0627\u0644\u0635\u0627",
-        "RadioUrl": "http:\/\/68.161.175.62:8008\/;stream\/1"
+        "RadioUrl": "https://uk3.internet-radio.com/proxy/majesticjukebox?mp=/live"
     },
     {
         "id": "19",
-        "RadioName": "\u0627\u0644\u0642\u062f\u064a\u0645 \u0627\u0644\u0649 \u0627\u0644\u0627\u0628\u062f",
+        "RadioName": "راديو ميامي موسيقى الروك",
         "RadioType": "\u0623\u063a\u0627\u0646\u064a \u0648\u0645\u0648\u0633\u064a\u0642\u0649 \u063a\u0631\u0628\u064a\u0629 \u0642\u062f\u064a\u0645\u0629 -- \u0631\u0648\u0643 -- \u0628\u0644\u0648\u0632 -- \u062c\u0627\u0632",
-        "RadioUrl": "http:\/\/46.105.122.141:9676\/;stream\/1"
+        "RadioUrl": "https://uk2.internet-radio.com/proxy/classicrockmiami?mp=/stream;"
     },
     {
         "id": "20",
-        "RadioName": "\u0645\u0648\u0633\u064a\u0642\u0649 \u0627\u0644\u062c\u0627\u0632 \u0645\u0646 \u0641\u0644\u0648\u0631\u064a\u062f\u0627",
+        "RadioName": "راديو توب 80 منوعات",
         "RadioType": "\u0645\u0648\u0633\u064a\u0642\u0649 \u0627\u0644\u062c\u0627\u0632",
-        "RadioUrl": "https:\/\/us4.internet-radio.com\/proxy\/wsjf?mp=\/stream;"
+        "RadioUrl": "https://uk5.internet-radio.com/proxy/top80radio?mp=/stream;"
     },
     {
         "id": "21",
